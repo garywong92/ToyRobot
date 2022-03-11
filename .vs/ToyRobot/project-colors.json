@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "307b9216-0c75-4b6a-9d4e-0f39b4b81a47": {
+      "ProjectGuid": "307b9216-0c75-4b6a-9d4e-0f39b4b81a47",
+      "DisplayName": "ToyRobotApp",
+      "ColorIndex": 0
+    },
+    "5dc1bdd2-852f-4bf8-836b-b4a79ecb8366": {
+      "ProjectGuid": "5dc1bdd2-852f-4bf8-836b-b4a79ecb8366",
+      "DisplayName": "ToyRobotLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

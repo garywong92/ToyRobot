@@ -1,0 +1,6 @@
+D:\Development\ToyRobot\ToyRobotLibrary\bin\Debug\ToyRobotLibrary.dll
+D:\Development\ToyRobot\ToyRobotLibrary\bin\Debug\ToyRobotLibrary.pdb
+D:\Development\ToyRobot\ToyRobotLibrary\obj\Debug\ToyRobotLibrary.csproj.AssemblyReference.cache
+D:\Development\ToyRobot\ToyRobotLibrary\obj\Debug\ToyRobotLibrary.csproj.CoreCompileInputs.cache
+D:\Development\ToyRobot\ToyRobotLibrary\obj\Debug\ToyRobotLibrary.dll
+D:\Development\ToyRobot\ToyRobotLibrary\obj\Debug\ToyRobotLibrary.pdb

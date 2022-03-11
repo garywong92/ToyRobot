@@ -1,0 +1,11 @@
+D:\Development\ToyRobot\ToyRobot\bin\Debug\ToyRobot.exe.config
+D:\Development\ToyRobot\ToyRobot\bin\Debug\ToyRobot.exe
+D:\Development\ToyRobot\ToyRobot\bin\Debug\ToyRobot.pdb
+D:\Development\ToyRobot\ToyRobot\bin\Debug\ToyRobotLibrary.dll
+D:\Development\ToyRobot\ToyRobot\bin\Debug\ToyRobotLibrary.pdb
+D:\Development\ToyRobot\ToyRobot\obj\Debug\ToyRobotApp.csproj.AssemblyReference.cache
+D:\Development\ToyRobot\ToyRobot\obj\Debug\ToyRobotApp.csproj.SuggestedBindingRedirects.cache
+D:\Development\ToyRobot\ToyRobot\obj\Debug\ToyRobotApp.csproj.CoreCompileInputs.cache
+D:\Development\ToyRobot\ToyRobot\obj\Debug\ToyRobotApp.csproj.CopyComplete
+D:\Development\ToyRobot\ToyRobot\obj\Debug\ToyRobot.exe
+D:\Development\ToyRobot\ToyRobot\obj\Debug\ToyRobot.pdb
